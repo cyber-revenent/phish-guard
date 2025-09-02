@@ -1,1 +1,7 @@
 venv/
+*.txt
+*.env
+secret_*.json
+*.txt
+*.env
+secret_*.json
